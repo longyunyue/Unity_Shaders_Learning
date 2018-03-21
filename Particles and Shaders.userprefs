@@ -1,11 +1,9 @@
 ﻿<Properties StartupConfiguration="{BEB61B0C-73B4-D56B-49D2-C79AC6698B1D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/demo3/SpotLight.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/demo4/HologramShader.shader">
     <Files>
-      <File FileName="Assets/test.cs" Line="13" Column="36" />
       <File FileName="Assets/demo2/SimpleDeformation.shader" Line="44" Column="57" />
-      <File FileName="Assets/demo3/SpotLight.shader" Line="59" Column="18" />
-      <File FileName="Assets/PlayerController.cs" Line="50" Column="43" />
-      <File FileName="Assets/SetShaderProperty.cs" Line="21" Column="46" />
+      <File FileName="Assets/demo3/SpotLight.shader" Line="59" Column="19" />
+      <File FileName="Assets/demo4/HologramShader.shader" Line="23" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
