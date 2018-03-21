@@ -333,6 +333,7 @@
     <None Include="Assets\demo2\SimpleDeformation.shader" />
     <None Include="Assets\demo3\SpotLight.shader" />
     <None Include="Assets\demo4\HologramShader.shader" />
+    <None Include="Assets\demo5\AlwaysVisble.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
